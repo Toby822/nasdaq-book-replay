@@ -1,0 +1,42 @@
+{
+  "session_date": "2012-06-21",
+  "levels": 10,
+  "checkpoint_rows": 2048,
+  "timestamp_unit": "picoseconds since midnight",
+  "symbols": [
+    {
+      "symbol": "AAPL",
+      "rows": 400391,
+      "tied_timestamp_rows": 16062,
+      "source_sha256": "326839316d67d7819ca0541ffdf73cdb044d6ae4105cce0ef9c615e8848e9d43",
+      "dense_bytes": 67265688,
+      "file_bytes": 19781816,
+      "mismatches": 0,
+      "depth_sha256": "936666879e1d16b600413ce6da0b8ffbddbea7bb225620701191ba01421d2c1e"
+    },
+    {
+      "symbol": "AMZN",
+      "rows": 269748,
+      "tied_timestamp_rows": 8483,
+      "source_sha256": "5cff62a609b27aef82285382ad646c4c2facc0a692a60bedda633de64c4aa54f",
+      "dense_bytes": 45317664,
+      "file_bytes": 10465020,
+      "mismatches": 0,
+      "depth_sha256": "afe661ae63165522d03a47442902dac4c0d7470c120da668b3a50931dbab0a23"
+    },
+    {
+      "symbol": "MSFT",
+      "rows": 668765,
+      "tied_timestamp_rows": 57203,
+      "source_sha256": "0825e00ec83cb8ac8b53fd1efb7f2138b7848659e625c49621ebd9b55757be4c",
+      "dense_bytes": 112352520,
+      "file_bytes": 11787782,
+      "mismatches": 0,
+      "depth_sha256": "dc954dffdfcc67cb90dc5a7737c3168d121f099a8d39948fbef86daf076d0978"
+    }
+  ],
+  "rows": 1338904,
+  "dense_bytes": 224935872,
+  "file_bytes": 42034618,
+  "reduction_percent": 81.31262140349051
+}

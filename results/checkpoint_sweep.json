@@ -1,0 +1,69 @@
+{
+  "queries_per_symbol": 1000,
+  "warm_runs": 3,
+  "per_symbol": [
+    {
+      "symbol": "AAPL",
+      "checkpoint_rows": 512,
+      "archive_bytes": 19853685,
+      "median_rows_decoded_per_lookup": 247.0,
+      "median_warm_mean_us": 420.305304
+    },
+    {
+      "symbol": "AAPL",
+      "checkpoint_rows": 2048,
+      "archive_bytes": 19781816,
+      "median_rows_decoded_per_lookup": 1019.0,
+      "median_warm_mean_us": 572.155458
+    },
+    {
+      "symbol": "AAPL",
+      "checkpoint_rows": 8192,
+      "archive_bytes": 19763825,
+      "median_rows_decoded_per_lookup": 3936.0,
+      "median_warm_mean_us": 1355.483497
+    },
+    {
+      "symbol": "AMZN",
+      "checkpoint_rows": 512,
+      "archive_bytes": 10518399,
+      "median_rows_decoded_per_lookup": 269.0,
+      "median_warm_mean_us": 382.282607
+    },
+    {
+      "symbol": "AMZN",
+      "checkpoint_rows": 2048,
+      "archive_bytes": 10465020,
+      "median_rows_decoded_per_lookup": 1094.5,
+      "median_warm_mean_us": 737.878741
+    },
+    {
+      "symbol": "AMZN",
+      "checkpoint_rows": 8192,
+      "archive_bytes": 10451664,
+      "median_rows_decoded_per_lookup": 4013.0,
+      "median_warm_mean_us": 1715.770525
+    },
+    {
+      "symbol": "MSFT",
+      "checkpoint_rows": 512,
+      "archive_bytes": 11939337,
+      "median_rows_decoded_per_lookup": 236.5,
+      "median_warm_mean_us": 836.82835
+    },
+    {
+      "symbol": "MSFT",
+      "checkpoint_rows": 2048,
+      "archive_bytes": 11787782,
+      "median_rows_decoded_per_lookup": 1033.5,
+      "median_warm_mean_us": 1131.137883
+    },
+    {
+      "symbol": "MSFT",
+      "checkpoint_rows": 8192,
+      "archive_bytes": 11749996,
+      "median_rows_decoded_per_lookup": 4049.0,
+      "median_warm_mean_us": 869.717282
+    }
+  ]
+}
